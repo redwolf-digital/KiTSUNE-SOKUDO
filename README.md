@@ -1,2 +1,3 @@
-# KiTSUNE-JIKAN
-Speed shutter tester
+# KiTSUNE JIKAN 🦊
+Speed shutter tester  
+***available soon***
