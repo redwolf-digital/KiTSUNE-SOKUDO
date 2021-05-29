@@ -19,7 +19,7 @@ Atmega328p whit Arduino bootloader **ONLY!**
 - Arduino IDE
 - PlatformIO *(Recommend)*
 ### Library
-- LiquidCrystal_I2C by Frank de Brabander  
+- LiquidCrystal_I2C by [Frank de Brabander](https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library)  
 
 ## Schematic
 ![](image/Schematic_for_Dev.png)
