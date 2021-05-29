@@ -11,9 +11,9 @@ Atmega328p whit Arduino bootloader **ONLY!**
 
 ## Requirement  
 ### Hardware  
-- Laser Detector Module
+- Laser detector module
 - Laser diode
-- LCD Display 2004
+- LCD Display 2004 with LCD to IIC module
 - Microcontroller
 ### Software
 - Arduino IDE
