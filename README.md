@@ -1,7 +1,7 @@
 # KiTSUNE SOKUDO 🦊  
 Speed shutter tester for vintage camera  
   
-👉 [WiKi](https://github.com/Wolfnest-Studio/KiTSUNE-SOKUDO/wiki)
+for beginner 👉 [WiKi](https://github.com/Wolfnest-Studio/KiTSUNE-SOKUDO/wiki)
   
 ## Microcontroller support
 Atmega328p whit Arduino bootloader **ONLY!**  
